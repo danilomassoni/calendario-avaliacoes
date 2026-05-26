@@ -1,0 +1,251 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    background:#ffffff;
+    color:#111111;
+    min-height:100vh;
+    padding:30px;
+}
+
+header{
+    text-align:center;
+    margin-bottom:40px;
+}
+
+header h1{
+    color:#c40000;
+    font-size:42px;
+    margin-bottom:10px;
+}
+
+header p{
+    color:#555;
+}
+
+.grid-turmas{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+    gap:20px;
+    max-width:1400px;
+    margin:auto;
+}
+
+.card-turma{
+    background:white;
+    border:2px solid #c40000;
+    border-radius:18px;
+    padding:30px;
+    text-align:center;
+    cursor:pointer;
+    transition:0.3s;
+}
+
+.card-turma:hover{
+    background:#c40000;
+    color:white;
+    transform:translateY(-5px);
+}
+
+.card-turma h2{
+    font-size:22px;
+}
+
+.topo-filtros{
+    display:flex;
+    justify-content:center;
+    margin-bottom:30px;
+}
+
+select{
+    padding:14px 20px;
+    border-radius:12px;
+    border:2px solid #c40000;
+    font-size:16px;
+    background:white;
+}
+
+.calendario{
+    display:grid;
+    grid-template-columns:repeat(7,1fr);
+    gap:10px;
+    max-width:1600px;
+    margin:auto;
+}
+
+.dia-semana{
+    background:#c40000;
+    color:white;
+    padding:15px;
+    border-radius:12px;
+    text-align:center;
+    font-weight:bold;
+}
+
+.dia{
+    min-height:170px;
+    border:2px solid #ddd;
+    border-radius:16px;
+    padding:10px;
+    background:white;
+}
+
+.numero-dia{
+    font-size:22px;
+    font-weight:bold;
+    color:#c40000;
+    margin-bottom:10px;
+}
+
+.prova{
+    background:#ffe5e5;
+    border-left:5px solid #c40000;
+    padding:8px;
+    border-radius:8px;
+    margin-bottom:8px;
+}
+
+.componente{
+    font-weight:bold;
+    font-size:14px;
+}
+
+.professor{
+    font-size:13px;
+    color:#555;
+}
+
+.vazio{
+    background:transparent;
+    border:none;
+}
+
+@media(max-width:1000px){
+
+    .calendario{
+        grid-template-columns:repeat(2,1fr);
+    }
+
+}
+
+.login-container{
+    max-width: 500px;
+    margin: 100px auto;
+    padding: 30px;
+    border: 2px solid #c40000;
+    border-radius: 16px;
+    text-align: center;
+}
+
+.login-container h1{
+    color:#c40000;
+    margin-bottom:20px;
+}
+
+.login-container input{
+    width: 100%;
+    padding: 12px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+}
+
+.login-container button{
+    margin-top: 15px;
+    padding: 12px 20px;
+    background:#c40000;
+    color:white;
+    border:none;
+    border-radius:10px;
+    cursor:pointer;
+}
+
+/* =========================
+LISTA MOBILE
+========================= */
+
+.lista-mobile{
+
+    display:none;
+
+}
+
+@media(max-width:600px){
+
+    /* ESCONDE CALENDÁRIO */
+
+    .calendario{
+
+        display:none;
+
+    }
+
+    /* MOSTRA LISTA */
+
+    .lista-mobile{
+
+        display:flex;
+
+        flex-direction:column;
+
+        gap:15px;
+
+        max-width:700px;
+
+        margin:auto;
+
+    }
+
+    .item-lista{
+
+        background:white;
+
+        border:2px solid #ddd;
+
+        border-left:6px solid #c40000;
+
+        border-radius:16px;
+
+        padding:16px;
+
+        box-shadow:
+        0 2px 8px rgba(0,0,0,0.05);
+
+    }
+
+    .item-data{
+
+        font-size:22px;
+
+        font-weight:bold;
+
+        color:#c40000;
+
+        margin-bottom:10px;
+
+    }
+
+    .item-componente{
+
+        font-size:16px;
+
+        font-weight:bold;
+
+        margin-bottom:6px;
+
+    }
+
+    .item-professor{
+
+        color:#666;
+
+        font-size:14px;
+
+    }
+
+}
+
