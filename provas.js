@@ -145,18 +145,6 @@ const provas = [
   },
   {
     "turma": "3EFA",
-    "data": "2026-06-15",
-    "professor": "Annie de Fátima Martins Morellil",
-    "componente": "MATEMÁTICA"
-  },
-  {
-    "turma": "3EFA",
-    "data": "2026-06-16",
-    "professor": "Annie de Fátima Martins Morelli",
-    "componente": "LÍNGUA PORTUGUESA"
-  },
-  {
-    "turma": "3EFA",
     "data": "2026-06-18",
     "professor": "Annie de Fátima Martins Morelli",
     "componente": "GEOGRAFIA"
@@ -172,18 +160,6 @@ const provas = [
     "data": "2026-06-12",
     "professor": "Kamila Kelly Tagliaferro Pradela",
     "componente": "CIÊNCIAS DA NATUREZA"
-  },
-  {
-    "turma": "3EFB",
-    "data": "2026-06-15",
-    "professor": "Kamila Kelly Tagliaferro Pradela",
-    "componente": "LÍNGUA PORTUGUESA"
-  },
-  {
-    "turma": "3EFB",
-    "data": "2026-06-16",
-    "professor": "kamila Kelly Tagliaferro Pradela",
-    "componente": "MATEMÁTICA"
   },
   {
     "turma": "3EFB",
@@ -252,6 +228,24 @@ const provas = [
     "componente": "CIÊNCIAS DA NATUREZA"
   },
   {
+    "turma": "5EFA",
+    "data": "2026-06-04",
+    "professor": "Mônica Sperançolo",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "5EFA",
+    "data": "2026-06-17",
+    "professor": "Mônica Sperançolo",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "5EFA",
+    "data": "2026-08-11",
+    "professor": "Mônica Sperançolo",
+    "componente": "HISTÓRIA"
+  },
+  {
     "turma": "5EFB",
     "data": "2026-05-25",
     "professor": "Larissa Ribeiro Santos",
@@ -294,6 +288,24 @@ const provas = [
     "componente": "HISTÓRIA"
   },
   {
+    "turma": "5EFB",
+    "data": "2026-06-17",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "5EFB",
+    "data": "2026-07-13",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "5EFB",
+    "data": "2026-08-10",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "HISTÓRIA"
+  },
+  {
     "turma": "HORA DE CONCLUSÃO",
     "data": "2026-05-13",
     "professor": "Larissa Ribeiro Santos",
@@ -374,12 +386,6 @@ const provas = [
   {
     "turma": "HORA DE CONCLUSÃO",
     "data": "2026-05-19",
-    "professor": "kamila Kelly Tagliaferro Pradela",
-    "componente": "MATEMÁTICA"
-  },
-  {
-    "turma": "HORA DE CONCLUSÃO",
-    "data": "2026-05-19",
     "professor": "Kamila Kelly Tagliaferro Pradela",
     "componente": "CIÊNCIAS DA NATUREZA"
   },
@@ -394,30 +400,12 @@ const provas = [
     "data": "2026-05-19",
     "professor": "Kamila Kelly Tagliaferro Pradela",
     "componente": "HISTÓRIA"
-  },
-  {
-    "turma": "HORA DE CONCLUSÃO",
-    "data": "2026-05-19",
-    "professor": "Kamila Kelly Tagliaferro Pradela",
-    "componente": "LÍNGUA PORTUGUESA"
   },
   {
     "turma": "HORA DE CONCLUSÃO",
     "data": "2026-05-19",
     "professor": "Annie de Fátima Martins Morelli",
     "componente": "CIÊNCIAS DA NATUREZA"
-  },
-  {
-    "turma": "HORA DE CONCLUSÃO",
-    "data": "2026-05-19",
-    "professor": "Annie de Fátima Martins Morellil",
-    "componente": "MATEMÁTICA"
-  },
-  {
-    "turma": "HORA DE CONCLUSÃO",
-    "data": "2026-05-19",
-    "professor": "Annie de Fátima Martins Morelli",
-    "componente": "LÍNGUA PORTUGUESA"
   },
   {
     "turma": "HORA DE CONCLUSÃO",
@@ -582,6 +570,42 @@ const provas = [
     "componente": "GEOGRAFIA"
   },
   {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-05-27",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-05-27",
+    "professor": "Mônica Sperançolo",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-05-27",
+    "professor": "Mônica Sperançolo",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-05-27",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-05-27",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-05-27",
+    "professor": "Mônica Sperançolo",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
     "turma": "HORA DE INÍCIO",
     "data": "2026-05-13",
     "professor": "Larissa Ribeiro Santos",
@@ -662,12 +686,6 @@ const provas = [
   {
     "turma": "HORA DE INÍCIO",
     "data": "2026-05-19",
-    "professor": "kamila Kelly Tagliaferro Pradela",
-    "componente": "MATEMÁTICA"
-  },
-  {
-    "turma": "HORA DE INÍCIO",
-    "data": "2026-05-19",
     "professor": "Kamila Kelly Tagliaferro Pradela",
     "componente": "CIÊNCIAS DA NATUREZA"
   },
@@ -682,30 +700,12 @@ const provas = [
     "data": "2026-05-19",
     "professor": "Kamila Kelly Tagliaferro Pradela",
     "componente": "HISTÓRIA"
-  },
-  {
-    "turma": "HORA DE INÍCIO",
-    "data": "2026-05-19",
-    "professor": "Kamila Kelly Tagliaferro Pradela",
-    "componente": "LÍNGUA PORTUGUESA"
   },
   {
     "turma": "HORA DE INÍCIO",
     "data": "2026-05-19",
     "professor": "Annie de Fátima Martins Morelli",
     "componente": "CIÊNCIAS DA NATUREZA"
-  },
-  {
-    "turma": "HORA DE INÍCIO",
-    "data": "2026-05-19",
-    "professor": "Annie de Fátima Martins Morellil",
-    "componente": "MATEMÁTICA"
-  },
-  {
-    "turma": "HORA DE INÍCIO",
-    "data": "2026-05-19",
-    "professor": "Annie de Fátima Martins Morelli",
-    "componente": "LÍNGUA PORTUGUESA"
   },
   {
     "turma": "HORA DE INÍCIO",
@@ -870,6 +870,42 @@ const provas = [
     "componente": "GEOGRAFIA"
   },
   {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-05-27",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-05-27",
+    "professor": "Mônica Sperançolo",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-05-27",
+    "professor": "Mônica Sperançolo",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-05-27",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-05-27",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-05-27",
+    "professor": "Mônica Sperançolo",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
     "turma": "ID",
     "data": "1970-01-01",
     "professor": "Larissa Ribeiro Santos",
@@ -950,12 +986,6 @@ const provas = [
   {
     "turma": "ID",
     "data": "1970-01-01",
-    "professor": "kamila Kelly Tagliaferro Pradela",
-    "componente": "MATEMÁTICA"
-  },
-  {
-    "turma": "ID",
-    "data": "1970-01-01",
     "professor": "Kamila Kelly Tagliaferro Pradela",
     "componente": "CIÊNCIAS DA NATUREZA"
   },
@@ -970,30 +1000,12 @@ const provas = [
     "data": "1970-01-01",
     "professor": "Kamila Kelly Tagliaferro Pradela",
     "componente": "HISTÓRIA"
-  },
-  {
-    "turma": "ID",
-    "data": "1970-01-01",
-    "professor": "Kamila Kelly Tagliaferro Pradela",
-    "componente": "LÍNGUA PORTUGUESA"
   },
   {
     "turma": "ID",
     "data": "1970-01-01",
     "professor": "Annie de Fátima Martins Morelli",
     "componente": "CIÊNCIAS DA NATUREZA"
-  },
-  {
-    "turma": "ID",
-    "data": "1970-01-01",
-    "professor": "Annie de Fátima Martins Morellil",
-    "componente": "MATEMÁTICA"
-  },
-  {
-    "turma": "ID",
-    "data": "1970-01-01",
-    "professor": "Annie de Fátima Martins Morelli",
-    "componente": "LÍNGUA PORTUGUESA"
   },
   {
     "turma": "ID",
@@ -1156,5 +1168,41 @@ const provas = [
     "data": "1970-01-01",
     "professor": "Danielle Gaglianone Semedo dos Santos",
     "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Mônica Sperançolo",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Mônica Sperançolo",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Mônica Sperançolo",
+    "componente": "CIÊNCIAS DA NATUREZA"
   }
 ];
