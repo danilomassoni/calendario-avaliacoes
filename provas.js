@@ -2,6 +2,12 @@ const provas = [
   {
     "turma": "1EFA",
     "data": "2026-06-08",
+    "professor": "Dnilo Teste",
+    "componente": "Teste"
+  },
+  {
+    "turma": "1EFA",
+    "data": "2026-06-08",
     "professor": "Danielle Gaglianone Semedo",
     "componente": "LÍNGUA INGLESA"
   },
