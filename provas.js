@@ -133,6 +133,18 @@ const provas = [
   },
   {
     "turma": "3EFA",
+    "data": "2026-06-08",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "3EFA",
+    "data": "2026-06-09",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "3EFA",
     "data": "2026-06-12",
     "professor": "Annie de Fátima Martins Morelli",
     "componente": "CIÊNCIAS DA NATUREZA"
@@ -154,6 +166,18 @@ const provas = [
     "data": "2026-06-19",
     "professor": "Annie de Fátima Martins Morelli",
     "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "3EFB",
+    "data": "2026-06-08",
+    "professor": "Kamila  Pradela",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "3EFB",
+    "data": "2026-06-09",
+    "professor": "Kamila pradela",
+    "componente": "MATEMÁTICA"
   },
   {
     "turma": "3EFB",
@@ -606,6 +630,30 @@ const provas = [
     "componente": "CIÊNCIAS DA NATUREZA"
   },
   {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-05-29",
+    "professor": "Kamila  Pradela",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-05-29",
+    "professor": "Kamila pradela",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-05-29",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-05-29",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
     "turma": "HORA DE INÍCIO",
     "data": "2026-05-13",
     "professor": "Larissa Ribeiro Santos",
@@ -906,6 +954,30 @@ const provas = [
     "componente": "CIÊNCIAS DA NATUREZA"
   },
   {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-05-29",
+    "professor": "Kamila  Pradela",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-05-29",
+    "professor": "Kamila pradela",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-05-29",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-05-29",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
     "turma": "ID",
     "data": "1970-01-01",
     "professor": "Larissa Ribeiro Santos",
@@ -1204,5 +1276,29 @@ const provas = [
     "data": "1970-01-01",
     "professor": "Mônica Sperançolo",
     "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Kamila  Pradela",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Kamila pradela",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "LÍNGUA PORTUGUESA"
   }
 ];
