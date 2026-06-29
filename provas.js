@@ -103,15 +103,57 @@ const provas = [
   },
   {
     "turma": "1EMA",
+    "data": "2026-08-10",
+    "professor": "Janaina Paiva Ono",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "1EMA",
+    "data": "2026-08-11",
+    "professor": "Amilton Cesar da Silva",
+    "componente": "FÍSICA"
+  },
+  {
+    "turma": "1EMA",
+    "data": "2026-08-13",
+    "professor": "Marcos Roberto de Souza",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "1EMA",
+    "data": "2026-08-13",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "1EMA",
     "data": "2026-08-19",
     "professor": "Elenita",
     "componente": "GEOGRAFIA"
   },
   {
     "turma": "1EMA",
+    "data": "2026-08-19",
+    "professor": "RICARDO",
+    "componente": "BIOLOGIA"
+  },
+  {
+    "turma": "1EMA",
+    "data": "2026-08-20",
+    "professor": "Marcela de Lima Pereira",
+    "componente": "SOCIOLOGIA"
+  },
+  {
+    "turma": "1EMA",
     "data": "2026-08-25",
     "professor": "Jéssica Ciurlin",
     "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "1EMA",
+    "data": "2026-08-27",
+    "professor": "Débora Guaraldo",
+    "componente": "LÍNGUA INGLESA"
   },
   {
     "turma": "1EMB",
@@ -127,9 +169,57 @@ const provas = [
   },
   {
     "turma": "1EMB",
+    "data": "2026-08-10",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "1EMB",
+    "data": "2026-08-11",
+    "professor": "Janaina Paiva Ono",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "1EMB",
+    "data": "2026-08-11",
+    "professor": "Amilton Cesar da Silva",
+    "componente": "FÍSICA"
+  },
+  {
+    "turma": "1EMB",
+    "data": "2026-08-13",
+    "professor": "Marcos Roberto de Souza",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "1EMB",
     "data": "2026-08-19",
     "professor": "Elenita",
     "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "1EMB",
+    "data": "2026-08-19",
+    "professor": "RICARDO",
+    "componente": "BIOLOGIA"
+  },
+  {
+    "turma": "1EMB",
+    "data": "2026-08-20",
+    "professor": "Marcela de Lima Pereira",
+    "componente": "SOCIOLOGIA"
+  },
+  {
+    "turma": "1EMB",
+    "data": "2026-08-24",
+    "professor": "José Antonio Ortiz Antunes",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "1EMB",
+    "data": "2026-08-27",
+    "professor": "Débora Guaraldo",
+    "componente": "LÍNGUA INGLESA"
   },
   {
     "turma": "1EMC",
@@ -157,15 +247,57 @@ const provas = [
   },
   {
     "turma": "1EMC",
+    "data": "2026-08-10",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "1EMC",
+    "data": "2026-08-11",
+    "professor": "Amilton Cesar da Silva",
+    "componente": "FÍSICA"
+  },
+  {
+    "turma": "1EMC",
+    "data": "2026-08-12",
+    "professor": "Janaina Paiva Ono",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "1EMC",
+    "data": "2026-08-13",
+    "professor": "Marcos Roberto de Souza",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "1EMC",
+    "data": "2026-08-18",
+    "professor": "RICARDO",
+    "componente": "BIOLOGIA"
+  },
+  {
+    "turma": "1EMC",
     "data": "2026-08-19",
     "professor": "Elenita",
     "componente": "GEOGRAFIA"
   },
   {
     "turma": "1EMC",
+    "data": "2026-08-20",
+    "professor": "Marcela de Lima Pereira",
+    "componente": "SOCIOLOGIA"
+  },
+  {
+    "turma": "1EMC",
     "data": "2026-08-25",
     "professor": "Jéssica Ciurlin",
     "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "1EMC",
+    "data": "2026-08-27",
+    "professor": "Débora Guaraldo",
+    "componente": "LÍNGUA INGLESA"
   },
   {
     "turma": "2EFA",
@@ -235,6 +367,12 @@ const provas = [
   },
   {
     "turma": "2EMA",
+    "data": "2026-07-30",
+    "professor": "Bruno Henrique Fuzaro Azevedo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "2EMA",
     "data": "2026-08-07",
     "professor": "Ricardo Moura",
     "componente": "BIOLOGIA"
@@ -247,9 +385,45 @@ const provas = [
   },
   {
     "turma": "2EMA",
+    "data": "2026-08-11",
+    "professor": "Amilton Cesar da Silva",
+    "componente": "FÍSICA"
+  },
+  {
+    "turma": "2EMA",
+    "data": "2026-08-11",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "2EMA",
     "data": "2026-08-14",
     "professor": "Elenita",
     "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "2EMA",
+    "data": "2026-08-18",
+    "professor": "Débora Guaraldo",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "2EMA",
+    "data": "2026-08-20",
+    "professor": "Janaina Paiva Ono",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "2EMA",
+    "data": "2026-08-21",
+    "professor": "Marcela de Lima Pereira",
+    "componente": "SOCIOLOGIA"
+  },
+  {
+    "turma": "2EMA",
+    "data": "2026-08-21",
+    "professor": "RICARDO",
+    "componente": "BIOLOGIA"
   },
   {
     "turma": "2EMB",
@@ -271,9 +445,51 @@ const provas = [
   },
   {
     "turma": "2EMB",
+    "data": "2026-08-11",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "2EMB",
+    "data": "2026-08-13",
+    "professor": "Marcos Roberto de Souza",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "2EMB",
     "data": "2026-08-14",
     "professor": "Elenita",
     "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "2EMB",
+    "data": "2026-08-14",
+    "professor": "Amilton Cesar da Silva",
+    "componente": "FÍSICA"
+  },
+  {
+    "turma": "2EMB",
+    "data": "2026-08-18",
+    "professor": "Débora Guaraldo",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "2EMB",
+    "data": "2026-08-19",
+    "professor": "RICARDO",
+    "componente": "BIOLOGIA"
+  },
+  {
+    "turma": "2EMB",
+    "data": "2026-08-20",
+    "professor": "Janaina Paiva Ono",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "2EMB",
+    "data": "2026-08-21",
+    "professor": "Marcela de Lima Pereira",
+    "componente": "SOCIOLOGIA"
   },
   {
     "turma": "2EMC",
@@ -295,9 +511,63 @@ const provas = [
   },
   {
     "turma": "2EMC",
+    "data": "2026-08-11",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "2EMC",
+    "data": "2026-08-13",
+    "professor": "Marcos Roberto de Souza",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "2EMC",
     "data": "2026-08-14",
     "professor": "Elenita",
     "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "2EMC",
+    "data": "2026-08-14",
+    "professor": "Amilton Cesar da Silva",
+    "componente": "FÍSICA"
+  },
+  {
+    "turma": "2EMC",
+    "data": "2026-08-18",
+    "professor": "Débora Guaraldo",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "2EMC",
+    "data": "2026-08-20",
+    "professor": "Janaina Paiva Ono",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "2EMC",
+    "data": "2026-08-20",
+    "professor": "Marcela de Lima Pereira",
+    "componente": "SOCIOLOGIA"
+  },
+  {
+    "turma": "2EMC",
+    "data": "2026-08-21",
+    "professor": "RICARDO",
+    "componente": "BIOLOGIA"
+  },
+  {
+    "turma": "3EFA",
+    "data": "2026-06-03",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "3EFA",
+    "data": "2026-06-08",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "LÍNGUA PORTUGUESA"
   },
   {
     "turma": "3EFA",
@@ -322,6 +592,18 @@ const provas = [
     "data": "2026-06-15",
     "professor": "Kamila Kelly Tagliaferro Pradela",
     "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "3EFA",
+    "data": "2026-06-15",
+    "professor": "Annie de Fátima Martins Morellil",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "3EFA",
+    "data": "2026-06-16",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "LÍNGUA PORTUGUESA"
   },
   {
     "turma": "3EFA",
@@ -355,6 +637,18 @@ const provas = [
   },
   {
     "turma": "3EFB",
+    "data": "2026-06-15",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "3EFB",
+    "data": "2026-06-16",
+    "professor": "kamila Kelly Tagliaferro Pradela",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "3EFB",
     "data": "2026-06-18",
     "professor": "Kamila Kelly Tagliaferro Pradela",
     "componente": "GEOGRAFIA"
@@ -379,9 +673,39 @@ const provas = [
   },
   {
     "turma": "3EMA",
+    "data": "2026-07-31",
+    "professor": "Bruno Henrique Fuzaro Azevedo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "3EMA",
+    "data": "2026-07-31",
+    "professor": "Heloisa Fonseca",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "3EMA",
+    "data": "2026-08-10",
+    "professor": "Amilton Cesar da Silva",
+    "componente": "FÍSICA"
+  },
+  {
+    "turma": "3EMA",
     "data": "2026-08-14",
     "professor": "Elenita",
     "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "3EMA",
+    "data": "2026-08-21",
+    "professor": "RICARDO",
+    "componente": "BIOLOGIA"
+  },
+  {
+    "turma": "3EMA",
+    "data": "2026-08-28",
+    "professor": "Débora Guaraldo",
+    "componente": "LÍNGUA INGLESA"
   },
   {
     "turma": "3EMB",
@@ -397,9 +721,39 @@ const provas = [
   },
   {
     "turma": "3EMB",
+    "data": "2026-07-31",
+    "professor": "Bruno Henrique Fuzaro Azevedo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "3EMB",
+    "data": "2026-07-31",
+    "professor": "Heloisa Fonseca",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "3EMB",
+    "data": "2026-08-10",
+    "professor": "Amilton Cesar da Silva",
+    "componente": "FÍSICA"
+  },
+  {
+    "turma": "3EMB",
     "data": "2026-08-12",
     "professor": "Elenita",
     "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "3EMB",
+    "data": "2026-08-21",
+    "professor": "RICARDO",
+    "componente": "BIOLOGIA"
+  },
+  {
+    "turma": "3EMB",
+    "data": "2026-08-28",
+    "professor": "Débora Guaraldo",
+    "componente": "LÍNGUA INGLESA"
   },
   {
     "turma": "3EMC",
@@ -415,9 +769,39 @@ const provas = [
   },
   {
     "turma": "3EMC",
+    "data": "2026-07-31",
+    "professor": "Bruno Henrique Fuzaro Azevedo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "3EMC",
+    "data": "2026-07-31",
+    "professor": "Heloisa Fonseca",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "3EMC",
+    "data": "2026-08-10",
+    "professor": "Amilton Cesar da Silva",
+    "componente": "FÍSICA"
+  },
+  {
+    "turma": "3EMC",
     "data": "2026-08-14",
     "professor": "Elenita",
     "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "3EMC",
+    "data": "2026-08-19",
+    "professor": "RICARDO",
+    "componente": "BIOLOGIA"
+  },
+  {
+    "turma": "3EMC",
+    "data": "2026-08-28",
+    "professor": "Débora Guaraldo",
+    "componente": "LÍNGUA INGLESA"
   },
   {
     "turma": "3EMD",
@@ -433,9 +817,39 @@ const provas = [
   },
   {
     "turma": "3EMD",
+    "data": "2026-07-31",
+    "professor": "Bruno Henrique Fuzaro Azevedo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "3EMD",
+    "data": "2026-07-31",
+    "professor": "Heloisa Fonseca",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "3EMD",
+    "data": "2026-08-10",
+    "professor": "Amilton Cesar da Silva",
+    "componente": "FÍSICA"
+  },
+  {
+    "turma": "3EMD",
     "data": "2026-08-12",
     "professor": "Elenita",
     "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "3EMD",
+    "data": "2026-08-21",
+    "professor": "RICARDO",
+    "componente": "BIOLOGIA"
+  },
+  {
+    "turma": "3EMD",
+    "data": "2026-08-28",
+    "professor": "Débora Guaraldo",
+    "componente": "LÍNGUA INGLESA"
   },
   {
     "turma": "4EFA",
@@ -672,10 +1086,118 @@ const provas = [
     "componente": "LÍNGUA PORTUGUESA"
   },
   {
+    "turma": "6EFA",
+    "data": "2026-08-12",
+    "professor": "Amarildo Rissati",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "6EFA",
+    "data": "2026-08-12",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "6EFA",
+    "data": "2026-08-13",
+    "professor": "Rosalia Aparecida Pinho Alves.",
+    "componente": "ARTES"
+  },
+  {
+    "turma": "6EFA",
+    "data": "2026-08-14",
+    "professor": "Nayara Campos dos Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "6EFA",
+    "data": "2026-08-14",
+    "professor": "Celso Carvalho Jr.",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "6EFA",
+    "data": "2026-08-14",
+    "professor": "Eder Ferreira da Silva Dumas",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "6EFA",
+    "data": "2026-08-17",
+    "professor": "Alexandre Koseki Magalhães",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "6EFA",
+    "data": "2026-08-17",
+    "professor": "Alexandre (nova resposta, por favor desconsidere a anterior)",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "6EFA",
+    "data": "2026-08-24",
+    "professor": "José Antonio Ortiz Antunes",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
     "turma": "6EFB",
     "data": "2026-06-18",
     "professor": "Amarildo Rissati",
     "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "6EFB",
+    "data": "2026-08-12",
+    "professor": "Nayara Campos dos Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "6EFB",
+    "data": "2026-08-12",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "6EFB",
+    "data": "2026-08-13",
+    "professor": "Rosalia Aparecida Pinho Alves.",
+    "componente": "ARTES"
+  },
+  {
+    "turma": "6EFB",
+    "data": "2026-08-14",
+    "professor": "Celso Carvalho Jr.",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "6EFB",
+    "data": "2026-08-14",
+    "professor": "Eder Ferreira da Silva Dumas",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "6EFB",
+    "data": "2026-08-17",
+    "professor": "Alexandre Koseki Magalhães",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "6EFB",
+    "data": "2026-08-17",
+    "professor": "Amarildo Rissati",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "6EFB",
+    "data": "2026-08-17",
+    "professor": "Alexandre (nova resposta, por favor desconsidere a anterior)",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "6EFB",
+    "data": "2026-08-24",
+    "professor": "José Antonio Ortiz Antunes",
+    "componente": "LÍNGUA INGLESA"
   },
   {
     "turma": "6EFC",
@@ -684,16 +1206,154 @@ const provas = [
     "componente": "LÍNGUA PORTUGUESA"
   },
   {
+    "turma": "6EFC",
+    "data": "2026-08-11",
+    "professor": "Nayara Campos dos Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "6EFC",
+    "data": "2026-08-13",
+    "professor": "Rosalia Aparecida Pinho Alves.",
+    "componente": "ARTES"
+  },
+  {
+    "turma": "6EFC",
+    "data": "2026-08-13",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "6EFC",
+    "data": "2026-08-14",
+    "professor": "Eder Ferreira da Silva Dumas",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "6EFC",
+    "data": "2026-08-17",
+    "professor": "Alexandre Koseki Magalhães",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "6EFC",
+    "data": "2026-08-17",
+    "professor": "Amarildo Rissati",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "6EFC",
+    "data": "2026-08-17",
+    "professor": "Celso Carvalho Jr.",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "6EFC",
+    "data": "2026-08-17",
+    "professor": "Alexandre (nova resposta, por favor desconsidere a anterior)",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "6EFC",
+    "data": "2026-08-24",
+    "professor": "José Antonio Ortiz Antunes",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
     "turma": "7EFA",
     "data": "2026-07-30",
     "professor": "Márcia Roberta Gonçalves Preto Lavrandeiro",
     "componente": "MATEMÁTICA"
   },
   {
+    "turma": "7EFA",
+    "data": "2026-08-10",
+    "professor": "Nayara Campos dos Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "7EFA",
+    "data": "2026-08-11",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "7EFA",
+    "data": "2026-08-13",
+    "professor": "Mariana Cavallari Fernandes",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "7EFA",
+    "data": "2026-08-17",
+    "professor": "Rosalia Aparecida Pinho Alves.",
+    "componente": "ARTES"
+  },
+  {
+    "turma": "7EFA",
+    "data": "2026-08-18",
+    "professor": "Janaina",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "7EFB",
+    "data": "2026-07-16",
+    "professor": "Nayara Campos dos Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
     "turma": "7EFB",
     "data": "2026-07-30",
     "professor": "Márcia Roberta Gonçalves Preto Lavrandeiro",
     "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "7EFB",
+    "data": "2026-08-11",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "7EFB",
+    "data": "2026-08-14",
+    "professor": "Eder Ferreira da Silva Dumas",
+    "componente": "PROGRAMAÇÃO E ROBÓTICA"
+  },
+  {
+    "turma": "7EFB",
+    "data": "2026-08-14",
+    "professor": "Mariana Cavallari Fernandes",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "7EFB",
+    "data": "2026-08-17",
+    "professor": "RICARDO",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "7EFB",
+    "data": "2026-08-17",
+    "professor": "Rosalia Aparecida Pinho Alves.",
+    "componente": "ARTES"
+  },
+  {
+    "turma": "7EFB",
+    "data": "2026-08-18",
+    "professor": "Janaina",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "7EFB",
+    "data": "2026-08-19",
+    "professor": "Alexandre Koseki Magalhães",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "7EFB",
+    "data": "2026-08-26",
+    "professor": "Alexandre (nova resposta, por favor desconsidere a anterior)",
+    "componente": "GEOGRAFIA"
   },
   {
     "turma": "7EFC",
@@ -714,10 +1374,94 @@ const provas = [
     "componente": "MATEMÁTICA"
   },
   {
+    "turma": "7EFC",
+    "data": "2026-08-13",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "7EFC",
+    "data": "2026-08-14",
+    "professor": "Mariana Cavallari Fernandes",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "7EFC",
+    "data": "2026-08-17",
+    "professor": "Rosalia Aparecida Pinho Alves.",
+    "componente": "ARTES"
+  },
+  {
+    "turma": "7EFC",
+    "data": "2026-08-18",
+    "professor": "Janaina",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "7EFC",
+    "data": "2026-08-19",
+    "professor": "Alexandre Koseki Magalhães",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "7EFC",
+    "data": "2026-08-19",
+    "professor": "RICARDO",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "7EFC",
+    "data": "2026-08-26",
+    "professor": "Alexandre (nova resposta, por favor desconsidere a anterior)",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "7EFC",
+    "data": "2026-08-27",
+    "professor": "Nayara Campos dos Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "8EFA",
+    "data": "2026-06-21",
+    "professor": "Alexandre Koseki Magalhães",
+    "componente": "GEOGRAFIA"
+  },
+  {
     "turma": "8EFA",
     "data": "2026-06-23",
     "professor": "Amarildo Rissati",
     "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "8EFA",
+    "data": "2026-08-10",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "8EFA",
+    "data": "2026-08-11",
+    "professor": "Amarildo Rissati",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "8EFA",
+    "data": "2026-08-14",
+    "professor": "Celso Carvalho Jr.",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "8EFA",
+    "data": "2026-08-26",
+    "professor": "Alexandre (nova resposta, por favor desconsidere a anterior)",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "8EFA",
+    "data": "2026-08-27",
+    "professor": "Nayara Campos dos Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
   },
   {
     "turma": "8EFB",
@@ -726,15 +1470,147 @@ const provas = [
     "componente": "LÍNGUA PORTUGUESA"
   },
   {
+    "turma": "8EFB",
+    "data": "2026-08-11",
+    "professor": "Eder Ferreira da Silva Dumas",
+    "componente": "PROGRAMAÇÃO E ROBÓTICA"
+  },
+  {
+    "turma": "8EFB",
+    "data": "2026-08-13",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "8EFB",
+    "data": "2026-08-17",
+    "professor": "Celso Carvalho Jr.",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "8EFB",
+    "data": "2026-08-18",
+    "professor": "Alexandre Koseki Magalhães",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "8EFB",
+    "data": "2026-08-18",
+    "professor": "Alexandre (nova resposta, por favor desconsidere a anterior)",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "8EFB",
+    "data": "2026-08-19",
+    "professor": "Rosalia Aparecida Pinho Alves.",
+    "componente": "ARTES"
+  },
+  {
+    "turma": "8EFB",
+    "data": "2026-08-20",
+    "professor": "Amarildo Rissati",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "8EFB",
+    "data": "2026-08-21",
+    "professor": "Marcos Roberto de Souza",
+    "componente": "MATEMÁTICA"
+  },
+  {
     "turma": "8EFC",
     "data": "2026-07-30",
     "professor": "Márcia Roberta Gonçalves Preto Lavrandeiro",
     "componente": "MATEMÁTICA"
   },
   {
+    "turma": "8EFC",
+    "data": "2026-08-12",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "8EFC",
+    "data": "2026-08-14",
+    "professor": "Celso Carvalho Jr.",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "8EFC",
+    "data": "2026-08-18",
+    "professor": "Alexandre Koseki Magalhães",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "8EFC",
+    "data": "2026-08-18",
+    "professor": "Alexandre (nova resposta, por favor desconsidere a anterior)",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "8EFC",
+    "data": "2026-08-19",
+    "professor": "Rosalia Aparecida Pinho Alves.",
+    "componente": "ARTES"
+  },
+  {
+    "turma": "8EFC",
+    "data": "2026-08-20",
+    "professor": "Nayara Campos dos Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
     "turma": "9EFA",
     "data": "2026-06-17",
     "professor": "Ricardo Moura",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "9EFA",
+    "data": "2026-08-10",
+    "professor": "Mariana Cavallari Fernandes",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "9EFA",
+    "data": "2026-08-14",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "9EFA",
+    "data": "2026-08-17",
+    "professor": "Janaina",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "9EFA",
+    "data": "2026-08-17",
+    "professor": "Alexandre Koseki Magalhães",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "9EFA",
+    "data": "2026-08-17",
+    "professor": "Alexandre (nova resposta, por favor desconsidere a anterior)",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "9EFA",
+    "data": "2026-08-19",
+    "professor": "RICARDO",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "9EFA",
+    "data": "2026-08-19",
+    "professor": "Rosalia Aparecida Pinho Alves.",
+    "componente": "ARTES"
+  },
+  {
+    "turma": "9EFA",
+    "data": "2026-08-20",
+    "professor": "Nayara Campos dos Santos",
     "componente": "CIÊNCIAS DA NATUREZA"
   },
   {
@@ -748,6 +1624,54 @@ const provas = [
     "data": "2026-07-30",
     "professor": "Márcia Roberta Gonçalves Preto Lavrandeiro",
     "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "9EFB",
+    "data": "2026-08-11",
+    "professor": "Mariana Cavallari Fernandes",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "9EFB",
+    "data": "2026-08-14",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "9EFB",
+    "data": "2026-08-17",
+    "professor": "Janaina",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "9EFB",
+    "data": "2026-08-17",
+    "professor": "Alexandre Koseki Magalhães",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "9EFB",
+    "data": "2026-08-17",
+    "professor": "Alexandre (nova resposta, por favor desconsidere a anterior)",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "9EFB",
+    "data": "2026-08-19",
+    "professor": "Rosalia Aparecida Pinho Alves.",
+    "componente": "ARTES"
+  },
+  {
+    "turma": "9EFB",
+    "data": "2026-08-20",
+    "professor": "RICARDO",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "9EFB",
+    "data": "2026-08-26",
+    "professor": "Nayara Campos dos Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
   },
   {
     "turma": "9EFC",
@@ -775,11 +1699,101 @@ const provas = [
   },
   {
     "turma": "9EFC",
+    "data": "2026-08-10",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "9EFC",
     "data": "2026-08-12",
     "professor": "Elenita",
     "componente": "GEOGRAFIA"
   },
   {
+    "turma": "9EFC",
+    "data": "2026-08-12",
+    "professor": "Mariana Cavallari Fernandes",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "9EFC",
+    "data": "2026-08-17",
+    "professor": "Janaina",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "9EFC",
+    "data": "2026-08-19",
+    "professor": "Rosalia Aparecida Pinho Alves.",
+    "componente": "ARTES"
+  },
+  {
+    "turma": "9EFC",
+    "data": "2026-08-20",
+    "professor": "RICARDO",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "9EFC",
+    "data": "2026-08-21",
+    "professor": "Nayara Campos dos Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "FASE IV A",
+    "data": "2026-05-22",
+    "professor": "Juan",
+    "componente": "PROGRAMAÇÃO E ROBÓTICA"
+  },
+  {
+    "turma": "FASE IV A",
+    "data": "2026-05-22",
+    "professor": "Danilo",
+    "componente": "ARTES"
+  },
+  {
+    "turma": "FASE IV A",
+    "data": "2026-05-22",
+    "professor": "Danilo",
+    "componente": "ARTES"
+  },
+  {
+    "turma": "FASE IV A",
+    "data": "2026-05-22",
+    "professor": "Danilo",
+    "componente": "BIOLOGIA"
+  },
+  {
+    "turma": "FASE IV A",
+    "data": "2026-05-22",
+    "professor": "Juan",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "FASE IV A",
+    "data": "2026-05-22",
+    "professor": "Danilo",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "FASE IV A",
+    "data": "2026-05-22",
+    "professor": "Juan",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "FASE IV A",
+    "data": "2026-05-22",
+    "professor": "Joazinho",
+    "componente": "ARTES"
+  },
+  {
+    "turma": "FASE V A",
+    "data": "2026-05-25",
+    "professor": "Daniloooo",
+    "componente": "ARTES"
+  },
+  {
     "turma": "HORA DE CONCLUSÃO",
     "data": "2026-05-13",
     "professor": "Larissa Ribeiro Santos",
@@ -860,6 +1874,12 @@ const provas = [
   {
     "turma": "HORA DE CONCLUSÃO",
     "data": "2026-05-19",
+    "professor": "kamila Kelly Tagliaferro Pradela",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-05-19",
     "professor": "Kamila Kelly Tagliaferro Pradela",
     "componente": "CIÊNCIAS DA NATUREZA"
   },
@@ -878,8 +1898,26 @@ const provas = [
   {
     "turma": "HORA DE CONCLUSÃO",
     "data": "2026-05-19",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-05-19",
     "professor": "Annie de Fátima Martins Morelli",
     "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-05-19",
+    "professor": "Annie de Fátima Martins Morellil",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-05-19",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "LÍNGUA PORTUGUESA"
   },
   {
     "turma": "HORA DE CONCLUSÃO",
@@ -922,6 +1960,54 @@ const provas = [
     "data": "2026-05-20",
     "professor": "Célia Regina dos Santos",
     "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-05-21",
+    "professor": "Juan",
+    "componente": "PROGRAMAÇÃO E ROBÓTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-05-21",
+    "professor": "Danilo",
+    "componente": "ARTES"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-05-21",
+    "professor": "Danilo",
+    "componente": "ARTES"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-05-21",
+    "professor": "Danilo",
+    "componente": "BIOLOGIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-05-21",
+    "professor": "Juan",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-05-21",
+    "professor": "Danilo",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-05-21",
+    "professor": "Juan",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-05-21",
+    "professor": "Joazinho",
+    "componente": "ARTES"
   },
   {
     "turma": "HORA DE CONCLUSÃO",
@@ -1009,6 +2095,12 @@ const provas = [
   },
   {
     "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-05-25",
+    "professor": "Daniloooo",
+    "componente": "ARTES"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
     "data": "2026-05-26",
     "professor": "Danielle Gaglianone Semedo",
     "componente": "LÍNGUA INGLESA"
@@ -1078,6 +2170,18 @@ const provas = [
     "data": "2026-05-27",
     "professor": "Mônica Sperançolo",
     "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-05-28",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-05-28",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "LÍNGUA PORTUGUESA"
   },
   {
     "turma": "HORA DE CONCLUSÃO",
@@ -1356,6 +2460,162 @@ const provas = [
     "componente": "FILOSOFIA"
   },
   {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-06-23",
+    "professor": "Janaina Paiva Ono",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-06-23",
+    "professor": "Janaina",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-06-23",
+    "professor": "Janaina",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-06-23",
+    "professor": "Alexandre Koseki Magalhães",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-06-24",
+    "professor": "Marcela de Lima Pereira",
+    "componente": "SOCIOLOGIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-06-24",
+    "professor": "RICARDO",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-06-24",
+    "professor": "RICARDO",
+    "componente": "BIOLOGIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-06-24",
+    "professor": "Nayara Campos dos Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-06-24",
+    "professor": "Amilton Cesar da Silva",
+    "componente": "FÍSICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-06-24",
+    "professor": "Marcos Roberto de Souza",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-06-24",
+    "professor": "Marcos Roberto de Souza",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-06-24",
+    "professor": "Rosalia Aparecida Pinho Alves.",
+    "componente": "ARTES"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-06-24",
+    "professor": "Bruno Henrique Fuzaro Azevedo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-06-24",
+    "professor": "Amarildo Rissati",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-06-24",
+    "professor": "Celso Carvalho Jr.",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-06-24",
+    "professor": "Eder Ferreira da Silva Dumas",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-06-24",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-06-24",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-06-24",
+    "professor": "Eder Ferreira da Silva Dumas",
+    "componente": "PROGRAMAÇÃO E ROBÓTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-06-24",
+    "professor": "Eder Ferreira da Silva Dumas",
+    "componente": "PROGRAMAÇÃO E ROBÓTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-06-24",
+    "professor": "Débora Guaraldo",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-06-24",
+    "professor": "Alexandre (nova resposta, por favor desconsidere a anterior)",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-06-25",
+    "professor": "Mariana Cavallari Fernandes",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-06-26",
+    "professor": "José Antonio Ortiz Antunes",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-06-26",
+    "professor": "José Antonio Ortiz Antunes",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-06-26",
+    "professor": "Heloisa Fonseca",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
     "turma": "HORA DE INÍCIO",
     "data": "2026-05-13",
     "professor": "Larissa Ribeiro Santos",
@@ -1436,6 +2696,12 @@ const provas = [
   {
     "turma": "HORA DE INÍCIO",
     "data": "2026-05-19",
+    "professor": "kamila Kelly Tagliaferro Pradela",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-05-19",
     "professor": "Kamila Kelly Tagliaferro Pradela",
     "componente": "CIÊNCIAS DA NATUREZA"
   },
@@ -1454,8 +2720,26 @@ const provas = [
   {
     "turma": "HORA DE INÍCIO",
     "data": "2026-05-19",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-05-19",
     "professor": "Annie de Fátima Martins Morelli",
     "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-05-19",
+    "professor": "Annie de Fátima Martins Morellil",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-05-19",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "LÍNGUA PORTUGUESA"
   },
   {
     "turma": "HORA DE INÍCIO",
@@ -1498,6 +2782,54 @@ const provas = [
     "data": "2026-05-20",
     "professor": "Célia Regina dos Santos",
     "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-05-21",
+    "professor": "Juan",
+    "componente": "PROGRAMAÇÃO E ROBÓTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-05-21",
+    "professor": "Danilo",
+    "componente": "ARTES"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-05-21",
+    "professor": "Danilo",
+    "componente": "ARTES"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-05-21",
+    "professor": "Danilo",
+    "componente": "BIOLOGIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-05-21",
+    "professor": "Juan",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-05-21",
+    "professor": "Danilo",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-05-21",
+    "professor": "Juan",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-05-21",
+    "professor": "Joazinho",
+    "componente": "ARTES"
   },
   {
     "turma": "HORA DE INÍCIO",
@@ -1585,6 +2917,12 @@ const provas = [
   },
   {
     "turma": "HORA DE INÍCIO",
+    "data": "2026-05-25",
+    "professor": "Daniloooo",
+    "componente": "ARTES"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
     "data": "2026-05-26",
     "professor": "Danielle Gaglianone Semedo",
     "componente": "LÍNGUA INGLESA"
@@ -1654,6 +2992,18 @@ const provas = [
     "data": "2026-05-27",
     "professor": "Mônica Sperançolo",
     "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-05-28",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-05-28",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "LÍNGUA PORTUGUESA"
   },
   {
     "turma": "HORA DE INÍCIO",
@@ -1932,6 +3282,162 @@ const provas = [
     "componente": "FILOSOFIA"
   },
   {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-06-23",
+    "professor": "Janaina Paiva Ono",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-06-23",
+    "professor": "Janaina",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-06-23",
+    "professor": "Janaina",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-06-23",
+    "professor": "Alexandre Koseki Magalhães",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-06-24",
+    "professor": "Marcela de Lima Pereira",
+    "componente": "SOCIOLOGIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-06-24",
+    "professor": "RICARDO",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-06-24",
+    "professor": "RICARDO",
+    "componente": "BIOLOGIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-06-24",
+    "professor": "Nayara Campos dos Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-06-24",
+    "professor": "Amilton Cesar da Silva",
+    "componente": "FÍSICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-06-24",
+    "professor": "Marcos Roberto de Souza",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-06-24",
+    "professor": "Marcos Roberto de Souza",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-06-24",
+    "professor": "Rosalia Aparecida Pinho Alves.",
+    "componente": "ARTES"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-06-24",
+    "professor": "Bruno Henrique Fuzaro Azevedo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-06-24",
+    "professor": "Amarildo Rissati",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-06-24",
+    "professor": "Celso Carvalho Jr.",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-06-24",
+    "professor": "Eder Ferreira da Silva Dumas",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-06-24",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-06-24",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-06-24",
+    "professor": "Eder Ferreira da Silva Dumas",
+    "componente": "PROGRAMAÇÃO E ROBÓTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-06-24",
+    "professor": "Eder Ferreira da Silva Dumas",
+    "componente": "PROGRAMAÇÃO E ROBÓTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-06-24",
+    "professor": "Débora Guaraldo",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-06-24",
+    "professor": "Alexandre (nova resposta, por favor desconsidere a anterior)",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-06-25",
+    "professor": "Mariana Cavallari Fernandes",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-06-26",
+    "professor": "José Antonio Ortiz Antunes",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-06-26",
+    "professor": "José Antonio Ortiz Antunes",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-06-26",
+    "professor": "Heloisa Fonseca",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
     "turma": "ID",
     "data": "1970-01-01",
     "professor": "Larissa Ribeiro Santos",
@@ -2012,6 +3518,12 @@ const provas = [
   {
     "turma": "ID",
     "data": "1970-01-01",
+    "professor": "kamila Kelly Tagliaferro Pradela",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
     "professor": "Kamila Kelly Tagliaferro Pradela",
     "componente": "CIÊNCIAS DA NATUREZA"
   },
@@ -2026,6 +3538,12 @@ const provas = [
     "data": "1970-01-01",
     "professor": "Kamila Kelly Tagliaferro Pradela",
     "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "LÍNGUA PORTUGUESA"
   },
   {
     "turma": "ID",
@@ -2036,6 +3554,18 @@ const provas = [
   {
     "turma": "ID",
     "data": "1970-01-01",
+    "professor": "Annie de Fátima Martins Morellil",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
     "professor": "Annie de Fátima Martins Morelli",
     "componente": "GEOGRAFIA"
   },
@@ -2074,6 +3604,54 @@ const provas = [
     "data": "1970-01-01",
     "professor": "Célia Regina dos Santos",
     "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Juan",
+    "componente": "PROGRAMAÇÃO E ROBÓTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Danilo",
+    "componente": "ARTES"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Danilo",
+    "componente": "ARTES"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Danilo",
+    "componente": "BIOLOGIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Juan",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Danilo",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Juan",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Joazinho",
+    "componente": "ARTES"
   },
   {
     "turma": "ID",
@@ -2158,6 +3736,12 @@ const provas = [
     "data": "1970-01-01",
     "professor": "Adriana de Almeida Vieira",
     "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Daniloooo",
+    "componente": "ARTES"
   },
   {
     "turma": "ID",
@@ -2230,6 +3814,18 @@ const provas = [
     "data": "1970-01-01",
     "professor": "Mônica Sperançolo",
     "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "LÍNGUA PORTUGUESA"
   },
   {
     "turma": "ID",
@@ -2506,5 +4102,161 @@ const provas = [
     "data": "1970-01-01",
     "professor": "Alexandra Baker Amaral",
     "componente": "FILOSOFIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Janaina Paiva Ono",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Janaina",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Janaina",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Alexandre Koseki Magalhães",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Marcela de Lima Pereira",
+    "componente": "SOCIOLOGIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "RICARDO",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "RICARDO",
+    "componente": "BIOLOGIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Nayara Campos dos Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Amilton Cesar da Silva",
+    "componente": "FÍSICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Marcos Roberto de Souza",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Marcos Roberto de Souza",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Rosalia Aparecida Pinho Alves.",
+    "componente": "ARTES"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Bruno Henrique Fuzaro Azevedo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Amarildo Rissati",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Celso Carvalho Jr.",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Eder Ferreira da Silva Dumas",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Eder Ferreira da Silva Dumas",
+    "componente": "PROGRAMAÇÃO E ROBÓTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Eder Ferreira da Silva Dumas",
+    "componente": "PROGRAMAÇÃO E ROBÓTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Débora Guaraldo",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Alexandre (nova resposta, por favor desconsidere a anterior)",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Mariana Cavallari Fernandes",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "José Antonio Ortiz Antunes",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "José Antonio Ortiz Antunes",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Heloisa Fonseca",
+    "componente": "LÍNGUA PORTUGUESA"
   }
 ];
