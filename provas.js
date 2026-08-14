@@ -36,6 +36,42 @@ const provas = [
     "componente": "GEOGRAFIA"
   },
   {
+    "turma": "1EFA",
+    "data": "2026-08-11",
+    "professor": "Danielle Semedo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "1EFA",
+    "data": "2026-08-17",
+    "professor": "Danielle",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "1EFA",
+    "data": "2026-08-17",
+    "professor": "Danielle Semedo",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "1EFA",
+    "data": "2026-08-20",
+    "professor": "Danielle Semedo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "1EFA",
+    "data": "2026-08-21",
+    "professor": "Danielle Semedo",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "1EFA",
+    "data": "2026-08-25",
+    "professor": "Danielle Semedo",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
     "turma": "1EFB",
     "data": "2026-06-08",
     "professor": "Adriana de Almeida Vieira",
@@ -70,6 +106,42 @@ const provas = [
     "data": "2026-06-23",
     "professor": "Danielle Gaglianone Semedo",
     "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "1EFB",
+    "data": "2026-08-17",
+    "professor": "Avaliação formativa (valor monetário)",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "1EFB",
+    "data": "2026-08-24",
+    "professor": "Avaliação somativa",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "1EFB",
+    "data": "2026-08-25",
+    "professor": "Sarau formativa",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "1EFB",
+    "data": "2026-08-26",
+    "professor": "Avaliação somativa",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "1EFB",
+    "data": "2026-08-27",
+    "professor": "Avaliação somativa",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "1EFB",
+    "data": "2026-08-31",
+    "professor": "Avaliação somativa",
+    "componente": "GEOGRAFIA"
   },
   {
     "turma": "1EMA",
@@ -217,6 +289,12 @@ const provas = [
   },
   {
     "turma": "1EMB",
+    "data": "2026-08-24",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "1EMB",
     "data": "2026-08-27",
     "professor": "Débora Guaraldo",
     "componente": "LÍNGUA INGLESA"
@@ -289,6 +367,12 @@ const provas = [
   },
   {
     "turma": "1EMC",
+    "data": "2026-08-24",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "1EMC",
     "data": "2026-08-25",
     "professor": "Jéssica Ciurlin",
     "componente": "LÍNGUA PORTUGUESA"
@@ -358,6 +442,60 @@ const provas = [
     "data": "2026-06-01",
     "professor": "Célia Regina dos Santos",
     "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "2EFB",
+    "data": "2026-08-17",
+    "professor": "Célia Regina dos Santos",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "2EFB",
+    "data": "2026-08-17",
+    "professor": "Célia Regina dos Santos",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "2EFB",
+    "data": "2026-08-17",
+    "professor": "Célia Regina dos Santos",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "2EFB",
+    "data": "2026-08-18",
+    "professor": "Celia Regina dos Santos",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "2EFB",
+    "data": "2026-08-18",
+    "professor": "Célia Regina dos Santos",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "2EFB",
+    "data": "2026-08-20",
+    "professor": "Celia Regina dos Santos",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "2EFB",
+    "data": "2026-08-20",
+    "professor": "Célia Regina dos Santos",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "2EFB",
+    "data": "2026-08-21",
+    "professor": "Célia Regina dos Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "2EFB",
+    "data": "2026-08-21",
+    "professor": "Célia Regina dos Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
   },
   {
     "turma": "2EMA",
@@ -606,10 +744,94 @@ const provas = [
     "componente": "HISTÓRIA"
   },
   {
+    "turma": "3EFA",
+    "data": "2026-08-03",
+    "professor": "AVALIAÇÃO CLASSIFICATÓRIA - Simulado com habilidades do AVALIA",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "3EFA",
+    "data": "2026-08-04",
+    "professor": "Avaliação Formativa - Simulado",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "3EFA",
+    "data": "2026-08-06",
+    "professor": "AVALIAÇÃO FORMATIVA: Material didático, páginas 101 e 102 (Do que as nuvens são formadas?)",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "3EFA",
+    "data": "2026-08-11",
+    "professor": "AVALIAÇÃO SOMATIVA: HORA DE RECORDAR (MEDIDAS)",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "3EFA",
+    "data": "2026-08-11",
+    "professor": "AVALIAÇÃO FORMATIVA: Jogo Trilha do Valor Monetário (estratégia PAE) - Rubrica",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "3EFA",
+    "data": "2026-08-13",
+    "professor": "Avaliação Formativa - Produção Escrita conto narrativo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "3EFA",
+    "data": "2026-08-13",
+    "professor": "AVALIAÇÃO FORMATIVA  - PRODUÇÃO DE CARTAZES SÓLIDOS GEOMÉTRICOS E PLANIFICAÇÕES",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "3EFA",
+    "data": "2026-08-14",
+    "professor": "Avaliação Somativa - Anúncio Publicitário",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "3EFA",
+    "data": "2026-08-17",
+    "professor": "AVALIAÇÃO CLASSIFICATÓRIA: Encarte 9 (pesquisa conservação ambiental).",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "3EFA",
+    "data": "2026-08-18",
+    "professor": "AVALIAÇÃO FORMATIVA: Descrição de ações pensadas nos 5Rs, Material Didático, páginas 74 e 75.",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "3EFA",
+    "data": "2026-08-18",
+    "professor": "AVALIAÇÃO CLASSIFICATÓRIA: Hora de Recordar - Espaços na Cidade, página 76.",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "3EFA",
+    "data": "2026-08-20",
+    "professor": "AVALIAÇÃO CLASSIFICATÓRIA: Hora de Recordar (Menos Consumo, mais consciência).",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "3EFA",
+    "data": "2026-08-20",
+    "professor": "Avaliação Classificatória: Experiência do Arco-íris, páginas 106 e 107.",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
     "turma": "3EFB",
     "data": "2026-06-08",
     "professor": "Kamila  Pradela",
     "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "3EFB",
+    "data": "2026-06-08",
+    "professor": "Kamila Pradela",
+    "componente": "MATEMÁTICA"
   },
   {
     "turma": "3EFB",
@@ -634,6 +856,30 @@ const provas = [
     "data": "2026-06-19",
     "professor": "Kamila Kelly Tagliaferro Pradela",
     "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "3EFB",
+    "data": "2026-08-11",
+    "professor": "Kamila Pradela",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "3EFB",
+    "data": "2026-08-13",
+    "professor": "Kamila Pradela",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "3EFB",
+    "data": "2026-08-14",
+    "professor": "Kamila Pradela",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "3EFB",
+    "data": "2026-08-20",
+    "professor": "kamila Pradela",
+    "componente": "LÍNGUA PORTUGUESA"
   },
   {
     "turma": "3EMA",
@@ -870,6 +1116,12 @@ const provas = [
     "componente": "MATEMÁTICA"
   },
   {
+    "turma": "4EFA",
+    "data": "2026-08-03",
+    "professor": "Kamila",
+    "componente": "MATEMÁTICA"
+  },
+  {
     "turma": "4EFB",
     "data": "2026-06-15",
     "professor": "Liliani Pereira Gitti Cajuela",
@@ -886,6 +1138,18 @@ const provas = [
     "data": "2026-06-22",
     "professor": "Liliani P G Cajuela",
     "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "4EFB",
+    "data": "2026-08-27",
+    "professor": "Pesquisa - Relação entre Campo e Cidade",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "4EFB",
+    "data": "2026-08-27",
+    "professor": "Pesquisa - Transformações no Tempo",
+    "componente": "HISTÓRIA"
   },
   {
     "turma": "5EFA",
@@ -1045,6 +1309,12 @@ const provas = [
   },
   {
     "turma": "5EFB",
+    "data": "2026-08-10",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "5EFB",
     "data": "2026-08-11",
     "professor": "Larissa Ribeiro Santos",
     "componente": "CIÊNCIAS DA NATUREZA"
@@ -1054,6 +1324,30 @@ const provas = [
     "data": "2026-08-12",
     "professor": "Larissa Ribeiro Santos",
     "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "5EFB",
+    "data": "2026-08-12",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "5EFB",
+    "data": "2026-08-24",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "5EFB",
+    "data": "2026-08-25",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "5EFB",
+    "data": "2026-08-26",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
   },
   {
     "turma": "6EFA",
@@ -1716,6 +2010,12 @@ const provas = [
     "componente": "CIÊNCIAS DA NATUREZA"
   },
   {
+    "turma": "9EFC",
+    "data": "2026-08-24",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
     "turma": "HORA DE CONCLUSÃO",
     "data": "2026-05-13",
     "professor": "Larissa Ribeiro Santos",
@@ -2454,6 +2754,306 @@ const provas = [
     "componente": "BIOLOGIA"
   },
   {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-10",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-10",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-10",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-10",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-10",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-11",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-11",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-11",
+    "professor": "Célia Regina dos Santos",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-11",
+    "professor": "Celia Regina dos Santos",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-11",
+    "professor": "Celia Regina dos Santos",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-11",
+    "professor": "Célia Regina dos Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "Célia Regina dos Santos",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "Célia Regina dos Santos",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "Célia Regina dos Santos",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "Célia Regina dos Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "Célia Regina dos Santos",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "Kamila",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "Kamila Pradela",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "Avaliação somativa",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "Sarau formativa",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "Avaliação formativa (valor monetário)",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "Avaliação somativa",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "Danielle",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "Avaliação somativa",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "Avaliação somativa",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "Kamila Pradela",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "Kamila Pradela",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "Kamila Pradela",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "kamila Pradela",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "Avaliação Formativa - Simulado",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "Avaliação Formativa - Produção Escrita conto narrativo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "Avaliação Somativa - Anúncio Publicitário",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "AVALIAÇÃO CLASSIFICATÓRIA - Simulado com habilidades do AVALIA",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "AVALIAÇÃO SOMATIVA: HORA DE RECORDAR (MEDIDAS)",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "AVALIAÇÃO FORMATIVA  - PRODUÇÃO DE CARTAZES SÓLIDOS GEOMÉTRICOS E PLANIFICAÇÕES",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "AVALIAÇÃO FORMATIVA: Jogo Trilha do Valor Monetário (estratégia PAE) - Rubrica",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "AVALIAÇÃO CLASSIFICATÓRIA: Hora de Recordar (Menos Consumo, mais consciência).",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "AVALIAÇÃO FORMATIVA: Descrição de ações pensadas nos 5Rs, Material Didático, páginas 74 e 75.",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "AVALIAÇÃO CLASSIFICATÓRIA: Encarte 9 (pesquisa conservação ambiental).",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "AVALIAÇÃO CLASSIFICATÓRIA: Hora de Recordar - Espaços na Cidade, página 76.",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "AVALIAÇÃO FORMATIVA: Material didático, páginas 101 e 102 (Do que as nuvens são formadas?)",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-13",
+    "professor": "Avaliação Classificatória: Experiência do Arco-íris, páginas 106 e 107.",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-14",
+    "professor": "Danielle Semedo",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-14",
+    "professor": "Danielle Semedo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-14",
+    "professor": "Danielle Semedo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-14",
+    "professor": "Danielle Semedo",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-14",
+    "professor": "Danielle Semedo",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-14",
+    "professor": "Pesquisa - Relação entre Campo e Cidade",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-14",
+    "professor": "Pesquisa - Transformações no Tempo",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-14",
+    "professor": "Danielle Semedo",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
     "turma": "HORA DE INÍCIO",
     "data": "2026-05-13",
     "professor": "Larissa Ribeiro Santos",
@@ -3192,6 +3792,306 @@ const provas = [
     "componente": "BIOLOGIA"
   },
   {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-10",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-10",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-10",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-10",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-10",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-11",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-11",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-11",
+    "professor": "Célia Regina dos Santos",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-11",
+    "professor": "Celia Regina dos Santos",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-11",
+    "professor": "Celia Regina dos Santos",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-11",
+    "professor": "Célia Regina dos Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "Célia Regina dos Santos",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "Célia Regina dos Santos",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "Célia Regina dos Santos",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "Célia Regina dos Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "Célia Regina dos Santos",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "Kamila",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "Kamila Pradela",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "Avaliação somativa",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "Sarau formativa",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "Avaliação formativa (valor monetário)",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "Avaliação somativa",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "Danielle",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "Avaliação somativa",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "Avaliação somativa",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "Kamila Pradela",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "Kamila Pradela",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "Kamila Pradela",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "kamila Pradela",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "Avaliação Formativa - Simulado",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "Avaliação Formativa - Produção Escrita conto narrativo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "Avaliação Somativa - Anúncio Publicitário",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "AVALIAÇÃO CLASSIFICATÓRIA - Simulado com habilidades do AVALIA",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "AVALIAÇÃO SOMATIVA: HORA DE RECORDAR (MEDIDAS)",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "AVALIAÇÃO FORMATIVA  - PRODUÇÃO DE CARTAZES SÓLIDOS GEOMÉTRICOS E PLANIFICAÇÕES",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "AVALIAÇÃO FORMATIVA: Jogo Trilha do Valor Monetário (estratégia PAE) - Rubrica",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "AVALIAÇÃO CLASSIFICATÓRIA: Hora de Recordar (Menos Consumo, mais consciência).",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "AVALIAÇÃO FORMATIVA: Descrição de ações pensadas nos 5Rs, Material Didático, páginas 74 e 75.",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "AVALIAÇÃO CLASSIFICATÓRIA: Encarte 9 (pesquisa conservação ambiental).",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "AVALIAÇÃO CLASSIFICATÓRIA: Hora de Recordar - Espaços na Cidade, página 76.",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "AVALIAÇÃO FORMATIVA: Material didático, páginas 101 e 102 (Do que as nuvens são formadas?)",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "Avaliação Classificatória: Experiência do Arco-íris, páginas 106 e 107.",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-13",
+    "professor": "Danielle Semedo",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-14",
+    "professor": "Danielle Semedo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-14",
+    "professor": "Danielle Semedo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-14",
+    "professor": "Danielle Semedo",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-14",
+    "professor": "Danielle Semedo",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-14",
+    "professor": "Pesquisa - Relação entre Campo e Cidade",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-14",
+    "professor": "Pesquisa - Transformações no Tempo",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-14",
+    "professor": "Danielle Semedo",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
     "turma": "ID",
     "data": "1970-01-01",
     "professor": "Larissa Ribeiro Santos",
@@ -3928,5 +4828,305 @@ const provas = [
     "data": "1970-01-01",
     "professor": "RICARDO",
     "componente": "BIOLOGIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Célia Regina dos Santos",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Celia Regina dos Santos",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Celia Regina dos Santos",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Célia Regina dos Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Célia Regina dos Santos",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Célia Regina dos Santos",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Célia Regina dos Santos",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Célia Regina dos Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Célia Regina dos Santos",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Kamila",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Kamila Pradela",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Avaliação somativa",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Sarau formativa",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Avaliação formativa (valor monetário)",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Avaliação somativa",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Danielle",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Avaliação somativa",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Avaliação somativa",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Kamila Pradela",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Kamila Pradela",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Kamila Pradela",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "kamila Pradela",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Avaliação Formativa - Simulado",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Avaliação Formativa - Produção Escrita conto narrativo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Avaliação Somativa - Anúncio Publicitário",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "AVALIAÇÃO CLASSIFICATÓRIA - Simulado com habilidades do AVALIA",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "AVALIAÇÃO SOMATIVA: HORA DE RECORDAR (MEDIDAS)",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "AVALIAÇÃO FORMATIVA  - PRODUÇÃO DE CARTAZES SÓLIDOS GEOMÉTRICOS E PLANIFICAÇÕES",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "AVALIAÇÃO FORMATIVA: Jogo Trilha do Valor Monetário (estratégia PAE) - Rubrica",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "AVALIAÇÃO CLASSIFICATÓRIA: Hora de Recordar (Menos Consumo, mais consciência).",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "AVALIAÇÃO FORMATIVA: Descrição de ações pensadas nos 5Rs, Material Didático, páginas 74 e 75.",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "AVALIAÇÃO CLASSIFICATÓRIA: Encarte 9 (pesquisa conservação ambiental).",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "AVALIAÇÃO CLASSIFICATÓRIA: Hora de Recordar - Espaços na Cidade, página 76.",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "AVALIAÇÃO FORMATIVA: Material didático, páginas 101 e 102 (Do que as nuvens são formadas?)",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Avaliação Classificatória: Experiência do Arco-íris, páginas 106 e 107.",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Danielle Semedo",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Danielle Semedo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Danielle Semedo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Danielle Semedo",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Danielle Semedo",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Pesquisa - Relação entre Campo e Cidade",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Pesquisa - Transformações no Tempo",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Danielle Semedo",
+    "componente": "CIÊNCIAS DA NATUREZA"
   }
 ];
