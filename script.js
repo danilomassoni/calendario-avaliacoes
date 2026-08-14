@@ -60,7 +60,7 @@ function inicializarIndex() {
 }
 
 // =========================
-// LOGIN RM
+// LOGIN RM / SENHA
 // =========================
 
 function acessarCalendario() {
@@ -72,11 +72,27 @@ function acessarCalendario() {
 
     if (!rm) {
 
-        alert("Digite o RM");
+        alert("Digite o RM ou a senha");
 
         return;
 
     }
+
+    // =========================
+    // ACESSO POR SENHA
+    // =========================
+
+    if (rm === "CE410@@") {
+
+        abrirSeletorTurmas();
+
+        return;
+
+    }
+
+    // =========================
+    // ACESSO POR RM
+    // =========================
 
     const aluno = alunos.find(
         item => item.rm.trim() === rm
@@ -92,6 +108,86 @@ function acessarCalendario() {
 
     window.location.href =
         `turma.html?turma=${encodeURIComponent(aluno.turma)}`;
+
+}
+
+// =========================
+// SELETOR DE TURMAS
+// =========================
+
+function abrirSeletorTurmas() {
+
+    const modal =
+        document.getElementById("modalTurmas");
+
+    const lista =
+        document.getElementById("listaTurmas");
+
+    if (!modal || !lista) {
+
+        console.error(
+            "Elementos do seletor de turmas não encontrados no HTML."
+        );
+
+        return;
+
+    }
+
+    // =========================
+    // OBTÉM TURMAS
+    // =========================
+
+    const turmas = [
+        ...new Set(
+            alunos.map(aluno => aluno.turma)
+        )
+    ].sort();
+
+    // Limpa a lista antes de adicionar
+    lista.innerHTML = "";
+
+    // =========================
+    // CRIA BOTÕES
+    // =========================
+
+    turmas.forEach(turma => {
+
+        const botao =
+            document.createElement("button");
+
+        botao.innerText = turma;
+
+        botao.addEventListener("click", () => {
+
+            window.location.href =
+                `turma.html?turma=${encodeURIComponent(turma)}`;
+
+        });
+
+        lista.appendChild(botao);
+
+    });
+
+    // =========================
+    // ABRE MODAL
+    // =========================
+
+    modal.style.display = "flex";
+
+}
+
+// =========================
+// FECHA SELETOR DE TURMAS
+// =========================
+
+function fecharSeletorTurmas() {
+
+    const modal =
+        document.getElementById("modalTurmas");
+
+    if (!modal) return;
+
+    modal.style.display = "none";
 
 }
 

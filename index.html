@@ -23,16 +23,25 @@ Calendário de Avaliações
         Calendário de Avaliações
     </h1>
 
-    <p>O SESI-SP utiliza diferentes formas de avaliação para acompanhar o desenvolvimento dos estudantes de maneira completa e contínua. Entre elas estão as avaliações diagnósticas, formativas, somativas, autoavaliações e atividades por projetos. Essas práticas permitem identificar avanços, dificuldades e potencialidades dos alunos ao longo do processo de aprendizagem. As datas apresentadas correspondem a uma parte dos instrumentos avaliativos que compõem o processo de avaliação do estudante durante o período letivo.</p>
+    <p>
+        O SESI-SP utiliza diferentes formas de avaliação para acompanhar
+        o desenvolvimento dos estudantes de maneira completa e contínua.
+        Entre elas estão as avaliações diagnósticas, formativas, somativas,
+        autoavaliações e atividades por projetos. Essas práticas permitem
+        identificar avanços, dificuldades e potencialidades dos alunos ao
+        longo do processo de aprendizagem. As datas apresentadas correspondem
+        a uma parte dos instrumentos avaliativos que compõem o processo de
+        avaliação do estudante durante o período letivo.
+    </p>
 
     <h3>
-        Digite seu RM
+        Digite seu RM ou senha
     </h3>
 
     <input
         type="text"
         id="rmInput"
-        placeholder="Digite seu RM"
+        placeholder="Digite seu RM ou senha"
     >
 
     <button onclick="acessarCalendario()">
@@ -42,6 +51,44 @@ Calendário de Avaliações
     </button>
 
 </div>
+
+
+<!-- =========================
+     POPUP DE SELEÇÃO DE TURMAS
+     ========================= -->
+
+<div
+    id="modalTurmas"
+    class="modal-turmas"
+>
+
+    <div class="modal-conteudo">
+
+        <h2>
+            Selecionar turma
+        </h2>
+
+        <p>
+            Escolha a turma que deseja visualizar:
+        </p>
+
+        <div
+            id="listaTurmas"
+            class="lista-turmas"
+        >
+        </div>
+
+        <button
+            type="button"
+            onclick="fecharSeletorTurmas()"
+        >
+            Cancelar
+        </button>
+
+    </div>
+
+</div>
+
 
 <script src="rms.js"></script>
 <script src="script.js"></script>
