@@ -72,6 +72,12 @@ const provas = [
     "componente": "CIÊNCIAS DA NATUREZA"
   },
   {
+    "turma": "1EFA",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
     "turma": "1EFB",
     "data": "2026-06-08",
     "professor": "Adriana de Almeida Vieira",
@@ -136,6 +142,12 @@ const provas = [
     "data": "2026-08-27",
     "professor": "Avaliação somativa",
     "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "1EFB",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
   },
   {
     "turma": "1EFB",
@@ -228,6 +240,12 @@ const provas = [
     "componente": "LÍNGUA INGLESA"
   },
   {
+    "turma": "1EMA",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
     "turma": "1EMB",
     "data": "2026-05-27",
     "professor": "Elenita",
@@ -298,6 +316,12 @@ const provas = [
     "data": "2026-08-27",
     "professor": "Débora Guaraldo",
     "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "1EMB",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
   },
   {
     "turma": "1EMC",
@@ -384,6 +408,12 @@ const provas = [
     "componente": "LÍNGUA INGLESA"
   },
   {
+    "turma": "1EMC",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
     "turma": "2EFA",
     "data": "2026-05-26",
     "professor": "Célia Regina dos Santos",
@@ -418,6 +448,12 @@ const provas = [
     "data": "2026-06-18",
     "professor": "Camila Godoi Hirata",
     "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "2EFA",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
   },
   {
     "turma": "2EFB",
@@ -498,6 +534,12 @@ const provas = [
     "componente": "CIÊNCIAS DA NATUREZA"
   },
   {
+    "turma": "2EFB",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
     "turma": "2EMA",
     "data": "2026-05-08",
     "professor": "Elenita",
@@ -570,6 +612,12 @@ const provas = [
     "componente": "BIOLOGIA"
   },
   {
+    "turma": "2EMA",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
     "turma": "2EMB",
     "data": "2026-05-08",
     "professor": "Elenita",
@@ -636,6 +684,12 @@ const provas = [
     "componente": "SOCIOLOGIA"
   },
   {
+    "turma": "2EMB",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
     "turma": "2EMC",
     "data": "2026-05-08",
     "professor": "Elenita",
@@ -706,6 +760,12 @@ const provas = [
     "data": "2026-08-21",
     "professor": "RICARDO",
     "componente": "BIOLOGIA"
+  },
+  {
+    "turma": "2EMC",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
   },
   {
     "turma": "3EFA",
@@ -822,6 +882,12 @@ const provas = [
     "componente": "CIÊNCIAS DA NATUREZA"
   },
   {
+    "turma": "3EFA",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
     "turma": "3EFB",
     "data": "2026-06-08",
     "professor": "Kamila  Pradela",
@@ -882,6 +948,12 @@ const provas = [
     "componente": "LÍNGUA PORTUGUESA"
   },
   {
+    "turma": "3EFB",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
     "turma": "3EMA",
     "data": "2026-05-22",
     "professor": "Elenita",
@@ -930,6 +1002,12 @@ const provas = [
     "componente": "LÍNGUA INGLESA"
   },
   {
+    "turma": "3EMA",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
     "turma": "3EMB",
     "data": "2026-05-27",
     "professor": "Elenita",
@@ -976,6 +1054,12 @@ const provas = [
     "data": "2026-08-28",
     "professor": "Débora Guaraldo",
     "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "3EMB",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
   },
   {
     "turma": "3EMC",
@@ -1026,6 +1110,12 @@ const provas = [
     "componente": "LÍNGUA INGLESA"
   },
   {
+    "turma": "3EMC",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
     "turma": "3EMD",
     "data": "2026-05-27",
     "professor": "Elenita",
@@ -1072,6 +1162,12 @@ const provas = [
     "data": "2026-08-28",
     "professor": "Débora Guaraldo",
     "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "3EMD",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
   },
   {
     "turma": "4EFA",
@@ -1122,6 +1218,12 @@ const provas = [
     "componente": "MATEMÁTICA"
   },
   {
+    "turma": "4EFA",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
     "turma": "4EFB",
     "data": "2026-06-15",
     "professor": "Liliani Pereira Gitti Cajuela",
@@ -1150,6 +1252,12 @@ const provas = [
     "data": "2026-08-27",
     "professor": "Pesquisa - Transformações no Tempo",
     "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "4EFB",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
   },
   {
     "turma": "5EFA",
@@ -1228,6 +1336,12 @@ const provas = [
     "data": "2026-08-11",
     "professor": "Mônica Sperançolo",
     "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "5EFA",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
   },
   {
     "turma": "5EFB",
@@ -1350,6 +1464,12 @@ const provas = [
     "componente": "CIÊNCIAS DA NATUREZA"
   },
   {
+    "turma": "5EFB",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
     "turma": "6EFA",
     "data": "2026-06-17",
     "professor": "Amarildo Rissati",
@@ -1410,6 +1530,12 @@ const provas = [
     "componente": "LÍNGUA INGLESA"
   },
   {
+    "turma": "6EFA",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
     "turma": "6EFB",
     "data": "2026-06-18",
     "professor": "Amarildo Rissati",
@@ -1468,6 +1594,12 @@ const provas = [
     "data": "2026-08-24",
     "professor": "José Antonio Ortiz Antunes",
     "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "6EFB",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
   },
   {
     "turma": "6EFC",
@@ -1528,6 +1660,12 @@ const provas = [
     "data": "2026-08-24",
     "professor": "José Antonio Ortiz Antunes",
     "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "6EFC",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
   },
   {
     "turma": "7EFA",
@@ -1564,6 +1702,12 @@ const provas = [
     "data": "2026-08-18",
     "professor": "Janaina",
     "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "7EFA",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
   },
   {
     "turma": "7EFB",
@@ -1624,6 +1768,12 @@ const provas = [
     "data": "2026-08-26",
     "professor": "Alexandre (nova resposta, por favor desconsidere a anterior)",
     "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "7EFB",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
   },
   {
     "turma": "7EFC",
@@ -1692,6 +1842,12 @@ const provas = [
     "componente": "CIÊNCIAS DA NATUREZA"
   },
   {
+    "turma": "7EFC",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
     "turma": "8EFA",
     "data": "2026-06-21",
     "professor": "Alexandre Koseki Magalhães",
@@ -1732,6 +1888,12 @@ const provas = [
     "data": "2026-08-27",
     "professor": "Nayara Campos dos Santos",
     "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "8EFA",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
   },
   {
     "turma": "8EFB",
@@ -1788,6 +1950,12 @@ const provas = [
     "componente": "MATEMÁTICA"
   },
   {
+    "turma": "8EFB",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
     "turma": "8EFC",
     "data": "2026-07-30",
     "professor": "Márcia Roberta Gonçalves Preto Lavrandeiro",
@@ -1828,6 +1996,12 @@ const provas = [
     "data": "2026-08-20",
     "professor": "Nayara Campos dos Santos",
     "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "8EFC",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
   },
   {
     "turma": "9EFA",
@@ -1882,6 +2056,12 @@ const provas = [
     "data": "2026-08-20",
     "professor": "Nayara Campos dos Santos",
     "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "9EFA",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
   },
   {
     "turma": "9EFB",
@@ -1942,6 +2122,12 @@ const provas = [
     "data": "2026-08-26",
     "professor": "Nayara Campos dos Santos",
     "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "9EFB",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
   },
   {
     "turma": "9EFC",
@@ -2016,6 +2202,48 @@ const provas = [
     "componente": "EDUCAÇÃO FÍSICA"
   },
   {
+    "turma": "9EFC",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
+    "turma": "FASE IV A",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
+    "turma": "FASE IV B",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
+    "turma": "FASE IV C",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
+    "turma": "FASE V A",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
+    "turma": "FASE V B",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
+    "turma": "FASE V C",
+    "data": "2026-08-28",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
     "turma": "HORA DE CONCLUSÃO",
     "data": "2026-05-13",
     "professor": "Larissa Ribeiro Santos",
@@ -3054,6 +3282,30 @@ const provas = [
     "componente": "CIÊNCIAS DA NATUREZA"
   },
   {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-14",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-14",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-14",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-14",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
     "turma": "HORA DE INÍCIO",
     "data": "2026-05-13",
     "professor": "Larissa Ribeiro Santos",
@@ -4092,6 +4344,30 @@ const provas = [
     "componente": "CIÊNCIAS DA NATUREZA"
   },
   {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-14",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-14",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-14",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-14",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
     "turma": "ID",
     "data": "1970-01-01",
     "professor": "Larissa Ribeiro Santos",
@@ -5128,5 +5404,29 @@ const provas = [
     "data": "1970-01-01",
     "professor": "Danielle Semedo",
     "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "ATO CÍVICO",
+    "componente": "Evento"
   }
 ];
