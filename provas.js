@@ -72,12 +72,6 @@ const provas = [
     "componente": "CIÊNCIAS DA NATUREZA"
   },
   {
-    "turma": "1EFA",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
-  },
-  {
     "turma": "1EFB",
     "data": "2026-06-08",
     "professor": "Adriana de Almeida Vieira",
@@ -121,6 +115,12 @@ const provas = [
   },
   {
     "turma": "1EFB",
+    "data": "2026-08-19",
+    "professor": "Rafael Gardiolo de Campos",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "1EFB",
     "data": "2026-08-24",
     "professor": "Avaliação somativa",
     "componente": "LÍNGUA PORTUGUESA"
@@ -142,12 +142,6 @@ const provas = [
     "data": "2026-08-27",
     "professor": "Avaliação somativa",
     "componente": "HISTÓRIA"
-  },
-  {
-    "turma": "1EFB",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
   },
   {
     "turma": "1EFB",
@@ -241,9 +235,9 @@ const provas = [
   },
   {
     "turma": "1EMA",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "data": "2026-08-27",
+    "professor": "Diego Felix Martins",
+    "componente": "EDUCAÇÃO FÍSICA"
   },
   {
     "turma": "1EMB",
@@ -313,15 +307,15 @@ const provas = [
   },
   {
     "turma": "1EMB",
-    "data": "2026-08-27",
-    "professor": "Débora Guaraldo",
-    "componente": "LÍNGUA INGLESA"
+    "data": "2026-08-24",
+    "professor": "Diego Felix Martins",
+    "componente": "EDUCAÇÃO FÍSICA"
   },
   {
     "turma": "1EMB",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "data": "2026-08-27",
+    "professor": "Débora Guaraldo",
+    "componente": "LÍNGUA INGLESA"
   },
   {
     "turma": "1EMC",
@@ -397,6 +391,12 @@ const provas = [
   },
   {
     "turma": "1EMC",
+    "data": "2026-08-24",
+    "professor": "Diego Felix Martins",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "1EMC",
     "data": "2026-08-25",
     "professor": "Jéssica Ciurlin",
     "componente": "LÍNGUA PORTUGUESA"
@@ -406,12 +406,6 @@ const provas = [
     "data": "2026-08-27",
     "professor": "Débora Guaraldo",
     "componente": "LÍNGUA INGLESA"
-  },
-  {
-    "turma": "1EMC",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
   },
   {
     "turma": "2EFA",
@@ -451,9 +445,27 @@ const provas = [
   },
   {
     "turma": "2EFA",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "data": "2026-08-18",
+    "professor": "Amanda Cristina Ferreira Lopes Xavier",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "2EFA",
+    "data": "2026-08-19",
+    "professor": "Amanda Cristina Ferreira Lopes Xavier",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "2EFA",
+    "data": "2026-08-24",
+    "professor": "Amanda Cristina Ferreira Lopes Xavier",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "2EFA",
+    "data": "2026-08-26",
+    "professor": "LUIZA ARAUJO SÁBIO",
+    "componente": "LÍNGUA INGLESA"
   },
   {
     "turma": "2EFB",
@@ -535,9 +547,9 @@ const provas = [
   },
   {
     "turma": "2EFB",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "data": "2026-08-26",
+    "professor": "LUIZA ARAUJO SÁBIO",
+    "componente": "LÍNGUA INGLESA"
   },
   {
     "turma": "2EMA",
@@ -613,9 +625,9 @@ const provas = [
   },
   {
     "turma": "2EMA",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "data": "2026-08-25",
+    "professor": "Diego Felix Martins",
+    "componente": "EDUCAÇÃO FÍSICA"
   },
   {
     "turma": "2EMB",
@@ -685,9 +697,9 @@ const provas = [
   },
   {
     "turma": "2EMB",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "data": "2026-08-25",
+    "professor": "Diego Felix Martins",
+    "componente": "EDUCAÇÃO FÍSICA"
   },
   {
     "turma": "2EMC",
@@ -763,9 +775,9 @@ const provas = [
   },
   {
     "turma": "2EMC",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "data": "2026-08-25",
+    "professor": "Diego Felix Martins",
+    "componente": "EDUCAÇÃO FÍSICA"
   },
   {
     "turma": "3EFA",
@@ -883,9 +895,9 @@ const provas = [
   },
   {
     "turma": "3EFA",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "data": "2026-08-25",
+    "professor": "LUIZA ARAUJO SÁBIO",
+    "componente": "LÍNGUA INGLESA"
   },
   {
     "turma": "3EFB",
@@ -949,9 +961,9 @@ const provas = [
   },
   {
     "turma": "3EFB",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "data": "2026-08-25",
+    "professor": "LUIZA ARAUJO SÁBIO",
+    "componente": "LÍNGUA INGLESA"
   },
   {
     "turma": "3EMA",
@@ -1002,12 +1014,6 @@ const provas = [
     "componente": "LÍNGUA INGLESA"
   },
   {
-    "turma": "3EMA",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
-  },
-  {
     "turma": "3EMB",
     "data": "2026-05-27",
     "professor": "Elenita",
@@ -1054,12 +1060,6 @@ const provas = [
     "data": "2026-08-28",
     "professor": "Débora Guaraldo",
     "componente": "LÍNGUA INGLESA"
-  },
-  {
-    "turma": "3EMB",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
   },
   {
     "turma": "3EMC",
@@ -1110,12 +1110,6 @@ const provas = [
     "componente": "LÍNGUA INGLESA"
   },
   {
-    "turma": "3EMC",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
-  },
-  {
     "turma": "3EMD",
     "data": "2026-05-27",
     "professor": "Elenita",
@@ -1162,12 +1156,6 @@ const provas = [
     "data": "2026-08-28",
     "professor": "Débora Guaraldo",
     "componente": "LÍNGUA INGLESA"
-  },
-  {
-    "turma": "3EMD",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
   },
   {
     "turma": "4EFA",
@@ -1220,8 +1208,8 @@ const provas = [
   {
     "turma": "4EFA",
     "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "professor": "LUIZA ARAUJO SÁBIO",
+    "componente": "LÍNGUA INGLESA"
   },
   {
     "turma": "4EFB",
@@ -1255,9 +1243,9 @@ const provas = [
   },
   {
     "turma": "4EFB",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "data": "2026-08-27",
+    "professor": "LUIZA ARAUJO SÁBIO",
+    "componente": "LÍNGUA INGLESA"
   },
   {
     "turma": "5EFA",
@@ -1339,9 +1327,63 @@ const provas = [
   },
   {
     "turma": "5EFA",
+    "data": "2026-08-21",
+    "professor": "Mônica Sperançolo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "5EFA",
+    "data": "2026-08-21",
+    "professor": "Mônica Sperançolo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "5EFA",
+    "data": "2026-08-24",
+    "professor": "Mônica Sperançolo",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "5EFA",
+    "data": "2026-08-24",
+    "professor": "Mônica Sperançolo",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "5EFA",
+    "data": "2026-08-25",
+    "professor": "Mônica Sperançolo",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "5EFA",
+    "data": "2026-08-26",
+    "professor": "Mônica Sperançolo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "5EFA",
+    "data": "2026-08-26",
+    "professor": "Mônica Sperançolo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "5EFA",
+    "data": "2026-08-27",
+    "professor": "Mônica Sperançolo",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "5EFA",
+    "data": "2026-08-27",
+    "professor": "Mônica Sperançolo",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "5EFA",
     "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "professor": "LUIZA ARAUJO SÁBIO",
+    "componente": "LÍNGUA INGLESA"
   },
   {
     "turma": "5EFB",
@@ -1459,15 +1501,15 @@ const provas = [
   },
   {
     "turma": "5EFB",
-    "data": "2026-08-26",
-    "professor": "Larissa Ribeiro Santos",
-    "componente": "CIÊNCIAS DA NATUREZA"
+    "data": "2026-08-25",
+    "professor": "LUIZA ARAUJO SÁBIO",
+    "componente": "LÍNGUA INGLESA"
   },
   {
     "turma": "5EFB",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "data": "2026-08-26",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
   },
   {
     "turma": "6EFA",
@@ -1531,9 +1573,9 @@ const provas = [
   },
   {
     "turma": "6EFA",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "data": "2026-08-26",
+    "professor": "Diego Felix Martins",
+    "componente": "EDUCAÇÃO FÍSICA"
   },
   {
     "turma": "6EFB",
@@ -1597,9 +1639,9 @@ const provas = [
   },
   {
     "turma": "6EFB",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "data": "2026-08-26",
+    "professor": "Diego Felix Martins",
+    "componente": "EDUCAÇÃO FÍSICA"
   },
   {
     "turma": "6EFC",
@@ -1663,9 +1705,9 @@ const provas = [
   },
   {
     "turma": "6EFC",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "data": "2026-08-27",
+    "professor": "Diego Felix Martins",
+    "componente": "EDUCAÇÃO FÍSICA"
   },
   {
     "turma": "7EFA",
@@ -1705,9 +1747,9 @@ const provas = [
   },
   {
     "turma": "7EFA",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "data": "2026-08-25",
+    "professor": "Diego Felix Martins",
+    "componente": "EDUCAÇÃO FÍSICA"
   },
   {
     "turma": "7EFB",
@@ -1765,15 +1807,15 @@ const provas = [
   },
   {
     "turma": "7EFB",
-    "data": "2026-08-26",
-    "professor": "Alexandre (nova resposta, por favor desconsidere a anterior)",
-    "componente": "GEOGRAFIA"
+    "data": "2026-08-25",
+    "professor": "Diego Felix Martins",
+    "componente": "EDUCAÇÃO FÍSICA"
   },
   {
     "turma": "7EFB",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "data": "2026-08-26",
+    "professor": "Alexandre (nova resposta, por favor desconsidere a anterior)",
+    "componente": "GEOGRAFIA"
   },
   {
     "turma": "7EFC",
@@ -1843,9 +1885,9 @@ const provas = [
   },
   {
     "turma": "7EFC",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "data": "2026-08-27",
+    "professor": "Diego Felix Martins",
+    "componente": "EDUCAÇÃO FÍSICA"
   },
   {
     "turma": "8EFA",
@@ -1879,6 +1921,12 @@ const provas = [
   },
   {
     "turma": "8EFA",
+    "data": "2026-08-24",
+    "professor": "Diego Felix Martins",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "8EFA",
     "data": "2026-08-26",
     "professor": "Alexandre (nova resposta, por favor desconsidere a anterior)",
     "componente": "GEOGRAFIA"
@@ -1888,12 +1936,6 @@ const provas = [
     "data": "2026-08-27",
     "professor": "Nayara Campos dos Santos",
     "componente": "CIÊNCIAS DA NATUREZA"
-  },
-  {
-    "turma": "8EFA",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
   },
   {
     "turma": "8EFB",
@@ -1951,9 +1993,9 @@ const provas = [
   },
   {
     "turma": "8EFB",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "data": "2026-08-27",
+    "professor": "Diego Felix Martins",
+    "componente": "EDUCAÇÃO FÍSICA"
   },
   {
     "turma": "8EFC",
@@ -1999,9 +2041,9 @@ const provas = [
   },
   {
     "turma": "8EFC",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "data": "2026-08-26",
+    "professor": "Diego Felix Martins",
+    "componente": "EDUCAÇÃO FÍSICA"
   },
   {
     "turma": "9EFA",
@@ -2060,8 +2102,8 @@ const provas = [
   {
     "turma": "9EFA",
     "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "professor": "Diego Felix Martins",
+    "componente": "EDUCAÇÃO FÍSICA"
   },
   {
     "turma": "9EFB",
@@ -2126,8 +2168,8 @@ const provas = [
   {
     "turma": "9EFB",
     "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "professor": "Diego Felix Martins",
+    "componente": "EDUCAÇÃO FÍSICA"
   },
   {
     "turma": "9EFC",
@@ -2203,45 +2245,9 @@ const provas = [
   },
   {
     "turma": "9EFC",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
-  },
-  {
-    "turma": "FASE IV A",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
-  },
-  {
-    "turma": "FASE IV B",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
-  },
-  {
-    "turma": "FASE IV C",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
-  },
-  {
-    "turma": "FASE V A",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
-  },
-  {
-    "turma": "FASE V B",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
-  },
-  {
-    "turma": "FASE V C",
-    "data": "2026-08-28",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "data": "2026-08-24",
+    "professor": "Diego Felix Martins",
+    "componente": "EDUCAÇÃO FÍSICA"
   },
   {
     "turma": "HORA DE CONCLUSÃO",
@@ -3283,27 +3289,99 @@ const provas = [
   },
   {
     "turma": "HORA DE CONCLUSÃO",
-    "data": "2026-08-14",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "data": "2026-08-15",
+    "professor": "LUIZA ARAUJO SÁBIO",
+    "componente": "LÍNGUA INGLESA"
   },
   {
     "turma": "HORA DE CONCLUSÃO",
-    "data": "2026-08-14",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "data": "2026-08-16",
+    "professor": "Amanda Cristina Ferreira Lopes Xavier",
+    "componente": "LÍNGUA PORTUGUESA"
   },
   {
     "turma": "HORA DE CONCLUSÃO",
-    "data": "2026-08-14",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "data": "2026-08-16",
+    "professor": "Rafael Gardiolo de Campos",
+    "componente": "LÍNGUA INGLESA"
   },
   {
     "turma": "HORA DE CONCLUSÃO",
-    "data": "2026-08-14",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "data": "2026-08-16",
+    "professor": "Amanda Cristina Ferreira Lopes Xavier",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-16",
+    "professor": "Amanda Cristina Ferreira Lopes Xavier",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-18",
+    "professor": "Mônica Sperançolo",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-18",
+    "professor": "Mônica Sperançolo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-18",
+    "professor": "Mônica Sperançolo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-18",
+    "professor": "Mônica Sperançolo",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-18",
+    "professor": "Mônica Sperançolo",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-18",
+    "professor": "Mônica Sperançolo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-18",
+    "professor": "Mônica Sperançolo",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-18",
+    "professor": "Mônica Sperançolo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-18",
+    "professor": "Mônica Sperançolo",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-20",
+    "professor": "Diego Felix Martins",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-20",
+    "professor": "Diego Felix Martins",
+    "componente": "EDUCAÇÃO FÍSICA"
   },
   {
     "turma": "HORA DE INÍCIO",
@@ -4345,27 +4423,99 @@ const provas = [
   },
   {
     "turma": "HORA DE INÍCIO",
-    "data": "2026-08-14",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "data": "2026-08-15",
+    "professor": "LUIZA ARAUJO SÁBIO",
+    "componente": "LÍNGUA INGLESA"
   },
   {
     "turma": "HORA DE INÍCIO",
-    "data": "2026-08-14",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "data": "2026-08-16",
+    "professor": "Amanda Cristina Ferreira Lopes Xavier",
+    "componente": "LÍNGUA PORTUGUESA"
   },
   {
     "turma": "HORA DE INÍCIO",
-    "data": "2026-08-14",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "data": "2026-08-16",
+    "professor": "Rafael Gardiolo de Campos",
+    "componente": "LÍNGUA INGLESA"
   },
   {
     "turma": "HORA DE INÍCIO",
-    "data": "2026-08-14",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "data": "2026-08-16",
+    "professor": "Amanda Cristina Ferreira Lopes Xavier",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-16",
+    "professor": "Amanda Cristina Ferreira Lopes Xavier",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-18",
+    "professor": "Mônica Sperançolo",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-18",
+    "professor": "Mônica Sperançolo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-18",
+    "professor": "Mônica Sperançolo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-18",
+    "professor": "Mônica Sperançolo",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-18",
+    "professor": "Mônica Sperançolo",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-18",
+    "professor": "Mônica Sperançolo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-18",
+    "professor": "Mônica Sperançolo",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-18",
+    "professor": "Mônica Sperançolo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-18",
+    "professor": "Mônica Sperançolo",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-20",
+    "professor": "Diego Felix Martins",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-20",
+    "professor": "Diego Felix Martins",
+    "componente": "EDUCAÇÃO FÍSICA"
   },
   {
     "turma": "ID",
@@ -5408,25 +5558,97 @@ const provas = [
   {
     "turma": "ID",
     "data": "1970-01-01",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "professor": "LUIZA ARAUJO SÁBIO",
+    "componente": "LÍNGUA INGLESA"
   },
   {
     "turma": "ID",
     "data": "1970-01-01",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "professor": "Amanda Cristina Ferreira Lopes Xavier",
+    "componente": "LÍNGUA PORTUGUESA"
   },
   {
     "turma": "ID",
     "data": "1970-01-01",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "professor": "Rafael Gardiolo de Campos",
+    "componente": "LÍNGUA INGLESA"
   },
   {
     "turma": "ID",
     "data": "1970-01-01",
-    "professor": "ATO CÍVICO",
-    "componente": "Evento"
+    "professor": "Amanda Cristina Ferreira Lopes Xavier",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Amanda Cristina Ferreira Lopes Xavier",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Mônica Sperançolo",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Mônica Sperançolo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Mônica Sperançolo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Mônica Sperançolo",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Mônica Sperançolo",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Mônica Sperançolo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Mônica Sperançolo",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Mônica Sperançolo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Mônica Sperançolo",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Diego Felix Martins",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Diego Felix Martins",
+    "componente": "EDUCAÇÃO FÍSICA"
   }
 ];
